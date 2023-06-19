@@ -1,0 +1,10 @@
+database mysql
+    host: "localhost",
+    user: "root",
+    password: "",
+    database: "helpdesk"
+
+run fontend
+	npm start
+run backed
+	npm run dev
